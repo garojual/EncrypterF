@@ -4,7 +4,7 @@ const decryptButton = document.querySelector(".decrypt");
 const inputArea = document.querySelector(".input");
 const resultArea = document.querySelector(".result");
 
-const messageNotFound = `<img src="../resources/Muñeco.png" alt="Imagen que representa que ningun mensaje ha sido procesado"
+const messageNotFound = `<img src="resources/Muñeco.png" alt="Imagen que representa que ningun mensaje ha sido procesado"
 class="messageNotFound">
 <h2>Ningún mensaje fue encontrado</h2>
 <p>Ingresa el texto que desees encriptar o desencriptar</p>`
